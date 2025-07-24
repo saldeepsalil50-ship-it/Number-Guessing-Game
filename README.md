@@ -1,17 +1,3 @@
 # 🎯 Number Guessing Game (C)
-A simple terminal-based number guessing game written in C.  
-
-## 📜 Description
-The program generates a random number between 1 and 100.  
-The user is prompted to guess the number, and the program gives feedback on whether the guess is too high, too low, or correct.
-
-The game continues until the correct number is guessed.
-
-## 🛠 Features
-
-- ✅ Random number generation using rand()
-- ✅ Input validation (only numbers accepted)
-- ✅ Number of attempts displayed
-- ✅ Simple and clean terminal UI
-- ✅ Beginner-friendly logic
-
+🎯 Mini C project: Guess the random number with feedback on each try. Great for beginners learning logic and I/O in C.
+🎯 A simple terminal-based number guessing game written in C. The user tries to guess a randomly generated number within a limited number of attempts. This mini project is perfect for beginners learning C programming, random number generation, and basic logic structures.
