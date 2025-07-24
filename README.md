@@ -1,4 +1,3 @@
-# Number-Guessing-Game.
 # 🎯 Number Guessing Game (C)
 A simple terminal-based number guessing game written in C.  
 
